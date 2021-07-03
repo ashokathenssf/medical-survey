@@ -1,2 +1,0 @@
-# medical-survey
-COVID19
